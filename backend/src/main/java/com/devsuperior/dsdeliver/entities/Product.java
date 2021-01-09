@@ -1,4 +1,4 @@
-package com.devsyperior.dsdeliver.entities;
+package com.devsuperior.dsdeliver.entities;
 
 import java.io.Serializable;
 

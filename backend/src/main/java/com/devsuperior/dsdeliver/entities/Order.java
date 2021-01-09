@@ -73,11 +73,11 @@ public class Order implements Serializable {
 		this.latitude = latitude;
 	}
 
-	public Double getlongitude() {
+	public Double getLongitude() {
 		return longitude;
 	}
 
-	public void setlongitude(Double longitude) {
+	public void setLongitude(Double longitude) {
 		this.longitude = longitude;
 	}
 
